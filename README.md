@@ -7,7 +7,7 @@ NOTE: For evaluation kindly look at the Data_Visualization.ipynb
 
 1. Open CMD or Terminal window and install git
 2. Execute this command to clone the repo git clone https://github.com/knownstranger03/Human_Pose_Estimation
-3. To get the backend Custom models contact me on sidhuprasad0304@gmail.com for a drive link as github limits the file size        for upload
+3. Download Custom backend models from here - https://drive.google.com/open?id=1k19ufl4pVuPh-064KUPOOj9zqTxbYxeV due to          githubs' file size limitation.
 4. cd into the cloned folder and open Data_Visualization.ipynb from jupyter notebook and predict with custom image inputs.
 ####You can change any functions and model architectures as required.
 
