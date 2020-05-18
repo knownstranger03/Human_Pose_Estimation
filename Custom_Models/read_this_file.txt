@@ -1,0 +1,3 @@
+The custom models could not be uploaded to github due to file size limit.
+
+Download the models folder from here and save it in this directory to run models without hussle - https://drive.google.com/open?id=1k19ufl4pVuPh-064KUPOOj9zqTxbYxeV
