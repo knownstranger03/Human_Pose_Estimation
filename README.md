@@ -11,7 +11,7 @@ This repository contains code for human pose keypoints estimation and action cla
 
 
 
-# Contents########
+# Contents
 1. Custom_Functions: this folder contains custom functions built for internal data pipelines and model architecture builders.
 2. Custom_Models: this folder contains both trained and untrained models (architecture) created for both prediction of pose keypoints and classification of human action.
 3. Data: contains two sub folders: -Action_Dataset -Pose_Dataset
@@ -28,7 +28,7 @@ This repository contains code for human pose keypoints estimation and action cla
     -pred : Is a function that requires image input whose ndim=[244,244,3] and return human pose keypoints predicted on the           image. This function can directly be used by anyone to retrive 14keypoints of 7joints, it supports single image/multiple       images/image pipelines input types.
     -classify : This function takes arrays of coordinates of joints as input and returns a label Hello/Namste. Supports               multiple array inputs for various image coordinates as a list of arrays.
     
-# SCOPE################
+# SCOPE
 
 ** This repo will be updated with 2 .ipynb files with functions that can includes a flask based web application which allows user to directly predict and view results in a .html file. The new update will also include a feature to accept prediction inputs directly from the user's webcam.
 
