@@ -1,6 +1,7 @@
 # Human_Pose_Estimation
 This repository contains code for human pose keypoints estimation and action classification.
 
+NOTE: For evaluation kindly look at the Data_Visualization.ipynb
 
 # Installation
 
